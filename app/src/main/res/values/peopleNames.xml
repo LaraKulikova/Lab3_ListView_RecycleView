@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="peopleNames">
+    <item>Петров П.П.</item>
+    <item>Сидоров С.С.</item>
+    <item>Васечкин В.В.</item>
+    <item>Колобков К.К.</item>
+    <item>Сергеев С.С</item>
+    <item>Александров А.А.</item>
+    <item>Андреев А.А.</item>
+</string-array>
+</resources>

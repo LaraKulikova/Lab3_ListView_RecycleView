@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailPeople">
+        <item>email1@google.com</item>
+        <item>email2@google.com</item>
+        <item>email3@google.com</item>
+        <item>email4@google.com</item>
+        <item>email5@google.com</item>
+        <item>email6@google.com</item>
+        <item>email7@google.com</item>
+    </string-array>
+</resources>
